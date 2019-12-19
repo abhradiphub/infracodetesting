@@ -68,7 +68,9 @@ Understanding Chef Test Kitchen
 https://www.tutorialspoint.com/chef/chef_test_kitchen_setup.htm
 
 How to use ServerSpec with Test-Kitchen
+
 https://alexharv074.github.io/2016/05/25/testing-an-ansible-role-using-test-kitchen.html
+
 https://www.rubydoc.info/gems/kitchen-ansible/0.0.30#Test-Kitchen_Serverspec
 
 
@@ -80,16 +82,22 @@ There are three main ways to test Terraform code. None of them are as easy as Go
 3. Test-Kitchen can be used for testing terraform code as well but it is under development
 
 TDD of Terraform with Go Language
+
 https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b
 
 TDD of Terraform using TerraTest
+
 https://blog.octo.com/test-your-infrastructure-code-with-terratest/
 
 Learn TerraTest through Examples
+
 https://github.com/gruntwork-io/terratest/tree/master/examples
 
 Using Test Kitchen for Terraform Testing
+
 https://github.com/newcontext-oss/kitchen-terraform
+
 https://newcontext-oss.github.io/kitchen-terraform/tutorials/amazon_provider_ec2.html
+
 https://newcontext-oss.github.io/kitchen-terraform/tutorials/
 
