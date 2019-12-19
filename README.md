@@ -1,6 +1,9 @@
 # infracodetesting
 
 This document introduces Test Driven Development of Ansible and Terraform Codes
+```
+Please follow the sequence as placed herein. Do not jump the sequence of learning.
+```
 
 Understanding what is Test Driven Development
 https://www.youtube.com/watch?v=dWayn0QsJr8
